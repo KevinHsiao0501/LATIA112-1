@@ -14,10 +14,4 @@
 
 3.
 
-from google.colab import drive
-drive.mount('/content/gdrive/', force_remount=True)
 
-import os
-os.chdir("/content/gdrive/My Drive/")
-!ls -l "/content/gdrive/My Drive/"
-#!ls -l "自行填寫正確的路徑"
