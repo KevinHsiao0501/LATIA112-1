@@ -7,3 +7,6 @@ __姓名__：蕭凱文
 __學號__：41041120S
 
 __系級__：物理系114級
+
+## 作業一
+[H.W.1](https://github.com/KevinHsiao0501/LATIA112-2/tree/main/H.W.1)
